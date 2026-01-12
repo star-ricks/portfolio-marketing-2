@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>✨ Star Ricks</h1>
-  <p><strong>Utah State University Graduate | Marketing Specialist | Content Creator</strong></p>
+  <h1>✨ Star Ricks ✨</h1>
+  <p><strong>Jack-of-all trades | Critical Thinker | Creative Marketer</strong></p>
 
   <img src="https://img.shields.io/badge/Adobe-Creative%20Suite-red?style=flat-square&logo=adobe" />
   <img src="https://img.shields.io/badge/Google-Analytics%20%26%20Ads-4285F4?style=flat-square&logo=google" />
