@@ -36,7 +36,7 @@ I am a freshly-graduated marketing student from **Utah State University** specia
 </details>
 
 ### 🧼 Sustainable Body Wash Packaging
-**The Challenge:** Design a mock brand, "Men's Choice," for the eco-conscious male demographic.
+**The Challenge:** Design a bodywash container for mock brand "Men's Choice" for the eco-conscious male demographic.
 - Conducted competitive analysis and brand positioning.
 - Designed physical packaging mockups focusing on minimalist, sustainable aesthetics.
 <details>
