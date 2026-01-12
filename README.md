@@ -17,9 +17,9 @@ I am a freshly-graduated marketing student from **Utah State University** specia
 ---
 
 ## 🛠️ Skills & Tools
-- **Design:** Adobe Illustrator, InDesign, Premiere Pro, Canva 🎨
-- **AI-Assisted Workflow:** Adobe Firefly, Claude, ChatGPT 🤖
-- **Strategic Marketing:** Google Analytics & Ads, SEO, Social Media Strategy 📈
+- **Design:** Adobe Illustrator, InDesign, Premiere Pro, Canva
+- **AI-Assisted Workflow:** Adobe Firefly, Claude, ChatGPT
+- **Strategic Marketing:** Google Analytics & Ads, SEO, Social Media Strategy
 
 ---
 
@@ -30,7 +30,7 @@ I am a freshly-graduated marketing student from **Utah State University** specia
 - Used Adobe Firefly (Imagery) & Claude AI (Copywriting)
 - Created high-end luxury messaging and visual assets that elevated brand perception.
 <details>
-  <summary>_View Ad Campaign_</summary>
+  <summary>*View Ad Campaign*</summary>
   <br>
   <img src="https://github.com/user-attachments/assets/05545ee8-36f7-4b50-9e9c-112b58d39e06" width="600">
 </details>
