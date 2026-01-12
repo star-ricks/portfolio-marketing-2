@@ -82,7 +82,12 @@ I am a freshly-graduated marketing student from **Utah State University** specia
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications![Star Ricks - Sustainability Marketing Research Poster copy](https://github.com/user-attachments/assets/f4e48f70-bc4a-4fd6-a70b-7d5c61b067fc)
+![Noni&#39;s Winter Specials](https://github.com/user-attachments/assets/4295612d-c3dc-4689-b244-665365144ea6)
+![Noni&#39;s Fall Specials Graphics](https://github.com/user-attachments/assets/1fd13cc1-1fae-41e5-b8e0-ae32a823298e)
+![Individual Package Assignment - Star Ricks copy 2](https://github.com/user-attachments/assets/725eddb6-4710-40c3-8524-910818a14c57)
+![Individual AI Ad Assignment - Star Ricks copy 2](https://github.com/user-attachments/assets/e924466a-0163-4e82-9e25-d1f9be33cca1)
+
 - ✅ **Google Analytics** (Advanced)
 - ✅ **Google Ads** (Search & Display)
 - ✅ **HubSpot** Social Media Marketing
