@@ -46,7 +46,7 @@ I am a freshly-graduated marketing student from **Utah State University** specia
 </details>
 
 ### 🏎️ YouTube Video Production: Car Detailing
-**The Challenge:** Produce long-form content to drive engagement for a local detailing business.
+Produced long-form content to drive engagement for a local detailing business.
 - Managed the full lifecycle: Scripting, filming, and post-production.
 <details>
   <summary>_Watch Video Demo_</summary>
