@@ -27,10 +27,10 @@ I am a freshly-graduated marketing student from **Utah State University** specia
 
 ### 🍕 AI-Generated Advertisement Redesign
 **The Challenge:** Reposition a "budget" brand (Little Caesar's) for a premium *Forbes* audience using AI.
-- **Tools:** Adobe Firefly (Imagery) & Claude AI (Copywriting)
-- **Outcome:** Created high-end luxury messaging and visual assets that elevated brand perception.
+- Used Adobe Firefly (Imagery) & Claude AI (Copywriting)
+- Created high-end luxury messaging and visual assets that elevated brand perception.
 <details>
-  <summary>🔍 View Ad Campaign</summary>
+  <summary>_View Ad Campaign_</summary>
   <br>
   <img src="https://github.com/user-attachments/assets/05545ee8-36f7-4b50-9e9c-112b58d39e06" width="600">
 </details>
@@ -38,9 +38,9 @@ I am a freshly-graduated marketing student from **Utah State University** specia
 ### 🧼 Sustainable Body Wash Packaging
 **The Challenge:** Design a bodywash container for mock brand "Men's Choice" for the eco-conscious male demographic.
 - Conducted competitive analysis and brand positioning.
-- Designed physical packaging mockups focusing on minimalist, sustainable aesthetics.
+- Designed packaging mockups focusing on minimalist, sustainable aesthetics.
 <details>
-  <summary>📦 View Package Design</summary>
+  <summary>_View Package Design_</summary>
   <br>
   <img src="https://github.com/user-attachments/assets/96f0c45b-acd2-4a11-b93e-a4ce820fa602" width="600">
 </details>
@@ -49,7 +49,7 @@ I am a freshly-graduated marketing student from **Utah State University** specia
 **The Challenge:** Produce long-form content to drive engagement for a local detailing business.
 - Managed the full lifecycle: Scripting, filming, and post-production.
 <details>
-  <summary>🎥 Watch Video Demo</summary>
+  <summary>_Watch Video Demo_</summary>
   <br>
   <a href="https://youtu.be/Ffl__Qubjkk">
     <img src="https://img.youtube.com/vi/Ffl__Qubjkk/maxresdefault.jpg" width="600" alt="Watch Video">
@@ -57,24 +57,24 @@ I am a freshly-graduated marketing student from **Utah State University** specia
 </details>
 
 ### 📊 Marketing Audit: Under Armour
-**The Challenge:** Led a 7-person team to deliver a 94-page strategic audit using professional datasets.
-- Focus: Environmental/Sustainability issues and competitive brand positioning.
+Led a 7-person team to deliver a 94-page strategic audit using professional datasets.
+- I focused on Environmental/Sustainability issues and competitive brand positioning.
 - Delivered actionable recommendations for brand growth.
 <details>
-  <summary>📄 View Full 94-Page Report</summary>
+  <summary>_View Full 94-Page Report_</summary>
   <br>
   <blockquote>
-    Looking for the full technical breakdown? You can view or download the complete PDF here:
+    View or download the complete PDF here:
     <br><br>
-    <a href="ua-audit.pdf"><strong>📂 Open Project Report (PDF)</strong></a>
+    <a href="ua-audit.pdf"><strong>📂 Open Marketing Report (PDF)</strong></a>
   </blockquote>
 </details>
 
 ### ☕ Local Business Visuals: Noni's Coffee
-**The Challenge:** Create "Seasonal Specials" posters to drive in-store traffic for a local barista role.
-- Leveraged graphic design to create appetite appeal and cohesive seasonal branding.
+Created "Seasonal Specials" posters to drive in-store traffic and appeal to customers for a local barista role.
+- Leveraged graphic design through Canva to create appetite appeal and cohesive seasonal branding.
 <details>
-  <summary>🎨 View Seasonal Graphics</summary>
+  <summary>_View Graphics_</summary>
   <br>
   <img src="https://github.com/user-attachments/assets/ce982a3f-0c44-412f-ba98-75f25f89bd7b" width="400">
   <img src="https://github.com/user-attachments/assets/3a04674b-3a17-485a-b8fe-99c8ed381c83" width="400">
@@ -84,8 +84,8 @@ I am a freshly-graduated marketing student from **Utah State University** specia
 
 ## 📜 Certifications
 
-- ✅ **Google Analytics** (Advanced)
-- ✅ **Google Ads** (Search & Display)
+- ✅ **Google Analytics**
+- ✅ **Google Ads**
 - ✅ **HubSpot** Social Media Marketing
 - ✅ **Adobe Creative Suite** (Illustrator, InDesign, Premiere Pro)
 
