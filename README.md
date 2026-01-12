@@ -30,7 +30,7 @@ I am a freshly-graduated marketing student from **Utah State University** specia
 - Used Adobe Firefly (Imagery) & Claude AI (Copywriting)
 - Created high-end luxury messaging and visual assets that elevated brand perception.
 <details>
-  <summary>*View Ad Campaign*</summary>
+  <summary>_View Ad Campaign_</summary>
   <br>
   <img src="https://github.com/user-attachments/assets/05545ee8-36f7-4b50-9e9c-112b58d39e06" width="600">
 </details>
