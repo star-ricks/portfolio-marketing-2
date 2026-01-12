@@ -56,20 +56,6 @@ Produced long-form content to drive engagement for a local detailing business.
   </a>
 </details>
 
-### 📊 Marketing Audit: Under Armour
-Led a 7-person team to deliver a 94-page strategic audit using professional datasets.
-- I focused on Environmental/Sustainability issues and competitive brand positioning.
-- Delivered actionable recommendations for brand growth.
-<details>
-  <summary>_View Full 94-Page Report_</summary>
-  <br>
-  <blockquote>
-    View or download the complete PDF here:
-    <br><br>
-    <a href="ua-audit.pdf"><strong>📂 Open Marketing Report (PDF)</strong></a>
-  </blockquote>
-</details>
-
 ### ☕ Local Business Visuals: Noni's Coffee
 Created "Seasonal Specials" posters to drive in-store traffic and appeal to customers for a local barista role.
 - Leveraged graphic design through Canva to create appetite appeal and cohesive seasonal branding.
